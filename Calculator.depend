@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1430981913 source:/root/Desktop/University/Second Semester/Structured Programming/Project/Final/Calculator/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<fstream>
+
+1438943423 source:/root/Desktop/University/First Year/Second Semester/Structured Programming/Project/Final/Calculator/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<fstream>
+
+1438943423 source:/run/media/islam/69e0b8ad-c24b-4009-9c92-e2a902706aef/home/University/First Year/Second Semester/Structured Programming/Project/Final/Calculator/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<fstream>
+
